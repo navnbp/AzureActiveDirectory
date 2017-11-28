@@ -1,0 +1,9 @@
+/Users/navn/Documents/POC/AzureADPOC/src/main/java/com/mckesson/radar/WebSecurityConfig.java
+/Users/navn/Documents/POC/AzureADPOC/src/main/java/com/mckesson/radar/auth/AdalFilter.java
+/Users/navn/Documents/POC/AzureADPOC/src/main/java/com/mckesson/radar/controller/WebErrorController.java
+/Users/navn/Documents/POC/AzureADPOC/src/main/java/com/mckesson/radar/MvcConfig.java
+/Users/navn/Documents/POC/AzureADPOC/src/main/java/com/mckesson/radar/AzureAdpocApplication.java
+/Users/navn/Documents/POC/AzureADPOC/src/main/java/com/mckesson/radar/auth/AuthHelper.java
+/Users/navn/Documents/POC/AzureADPOC/src/main/java/com/mckesson/radar/auth/AuthParameterNames.java
+/Users/navn/Documents/POC/AzureADPOC/src/main/java/com/mckesson/radar/controller/LoginController.java
+/Users/navn/Documents/POC/AzureADPOC/src/main/java/com/mckesson/radar/model/UserDetail.java
